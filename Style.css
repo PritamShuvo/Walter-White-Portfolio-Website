@@ -1,0 +1,118 @@
+/** @format */
+
+body {
+  font-family: "Boogaloo", cursive;
+  margin: 0%;
+}
+.Name-Highlighter {
+  color: rgba(247, 149, 3, 0.76);
+}
+.Half-Width {
+  width: 40%;
+  float: left;
+  margin: 3%;
+  padding: 2%;
+}
+section {
+  height: 700px;
+}
+.Half-Width p {
+  color: #4b3cc7;
+}
+.Half-Width img {
+  width: 100%;
+}
+h1 {
+  color: rgb(226, 91, 43);
+  font-size: 70px;
+}
+p {
+  margin-bottom: 25px;
+  font-size: 30px;
+}
+.Button {
+  text-decoration: none;
+  background-image: linear-gradient(salmon, tomato);
+  padding: 15px;
+  color: beige;
+  border-radius: 10px;
+}
+.Header-Part {
+  background-image: url(Image/TopBanner.png);
+  background-repeat: no-repeat;
+}
+.Middle-Part p {
+  color: #0c61c2cc;
+}
+.Button2 {
+  text-decoration: none;
+  background-image: linear-gradient(#4e41cb, #4e41cb);
+  padding: 15px;
+  color: beige;
+  border-radius: 10px;
+}
+.Middle-Part {
+  background-image: url(Image/MiddleBanner.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.Lower-Part1 {
+  margin-top: 100px;
+  text-align: center;
+  background-image: url(Image/Bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+}
+.Lower-Part-Width {
+  background-color: white;
+}
+.Lower-Part1 p {
+  font-size: 20px;
+  color: rgb(247, 95, 78);
+}
+.Actions-Highlight {
+  color: red;
+}
+.Crime-Highlight {
+  color: red;
+}
+.Lower-Part-Width {
+  width: 26%;
+  margin: 3%;
+  float: left;
+  border: 3px solid rgb(20, 176, 238);
+  border-image: linear-gradient(rgb(0, 114, 245), cyan);
+  border-image-slice: 25;
+}
+.Lower-Part-Width img {
+  width: 100%;
+}
+.Box-Shadow {
+  box-shadow: 5px 5px 20px grey;
+  border-radius: 10px;
+}
+
+.Lower-Part2 {
+  width: 100%;
+  background-image: url(Image/Bottom\ Banner.png);
+  background-size: 1200px 225px;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+.Lower-Part2 h1 {
+  font-size: 40px;
+}
+footer {
+  text-align: center;
+  margin-bottom: 20px;
+  color: tomato;
+}
+.Lower-Part1 h1 {
+  font-size: 50px;
+}
+.Lower-Part1 h2 {
+  color: rgb(226, 91, 43);
+}
